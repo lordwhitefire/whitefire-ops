@@ -38,11 +38,7 @@ function Hero() {
       <p>Software-based operational tools<br className="desktop" /> for small and mid-sized businesses.</p>
       <ContactLink className="hero-link">Talk to Whitefire Ops</ContactLink>
     </div>
-    <div className="hero-image" aria-hidden="true">
-      <img src="https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=1800&q=85" alt="" fetchPriority="high" />
-      <div className="image-shade" />
-      <small>STRUCTURE / SYSTEM / SOLUTION</small>
-    </div>
+    <div className="hero-image" aria-hidden="true" />
   </section>;
 }
 
